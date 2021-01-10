@@ -1,2 +1,2 @@
 # ProShop
-Main repo for e-commerce clone site.
+ Repo of e-commerce clone site.
